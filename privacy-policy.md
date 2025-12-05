@@ -1,6 +1,6 @@
-# Twisty Trainer Privacy Policy
+# Privacy Policy for "Vertex: Cube Trainer"
 
-Twisty Trainer does not collect any user data. At no point does the application collect any of your data, nor does it submit any of your data to any servers that belong to the developer. The app is fully a local experience on your device, aside from the integration(s) mentioned below.
+The app "Vertex: Cube Trainer" does not collect any user data. At no point does the application collect any of your data, nor does it submit any of your data to any servers that belong to the developer. The app is fully a local experience on your device, aside from the integration(s) mentioned below.
 
 ## Apple Integration
 
